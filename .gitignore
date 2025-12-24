@@ -1,0 +1,10 @@
+# VS Code settings
+.vscode/
+
+# VS Code C/C++ config
+c_cpp_properties.json
+
+# Build files (optional but recommended)
+*.out
+*.exe
+a.out
